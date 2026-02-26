@@ -88,7 +88,7 @@ flutter run
 
 * **Project Title:** MedLens - Advanced Medical Analysis & Management System
 * **Level:** Final Year Degree Project
-* **Author:** [Saja-abbas]([https://www.google.com/search?q=https://github.com/Saja-abbas](https://github.com/Saja-abbas/))
+* **Author:** [Saja-abbas](https://github.com/Saja-abbas/)
 
 
 ## 📞 Contact
